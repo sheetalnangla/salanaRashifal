@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:isScrollContainer="false"
+        android:nestedScrollingEnabled="false"
+        android:orientation="vertical"
+        android:overScrollMode="never">
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:height="40dp"
+                android:fontFamily="sans-serif"
+                android:letterSpacing="0.3"
+                android:text="@string/title"
+                android:textAlignment="center"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#AD1457"
+                android:textSize="20sp"
+
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/linear1">
+
+            <ImageButton
+                android:id="@+id/mesha"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/mesha"
+                android:clickable="true"
+                android:contentDescription="@string/mesha"
+
+                android:onClick="mesha" />
+
+            <ImageButton
+                android:id="@+id/vrisbha"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/vrishbha"
+                android:clickable="true"
+                android:contentDescription="@string/vrishbha"
+                android:onClick="vrishbha" />
+
+
+            <ImageButton
+                android:id="@+id/mithuna"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/mithuna"
+                android:clickable="true"
+                android:contentDescription="@string/mithuna"
+                android:onClick="mithuna" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/linear2">
+
+            <ImageButton
+                android:id="@+id/karkata"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/karkata"
+                android:clickable="true"
+                android:contentDescription="@string/karkata"
+                android:onClick="karkata" />
+
+            <ImageButton
+                android:id="@+id/simha"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/simha"
+                android:clickable="true"
+                android:contentDescription="@string/simha"
+                android:onClick="simha" />
+
+
+            <ImageButton
+                android:id="@+id/kanya"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/kanya"
+                android:clickable="true"
+                android:contentDescription="@string/kanya"
+                android:onClick="kanya" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linear4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/linear3">
+
+            <ImageButton
+                android:id="@+id/tula"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/tula"
+                android:clickable="true"
+                android:contentDescription="@string/tula"
+                android:onClick="tula" />
+
+            <ImageButton
+                android:id="@+id/vrishika"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/vrishika"
+                android:clickable="true"
+                android:contentDescription="@string/vrishika"
+                android:onClick="vrishika" />
+
+
+            <ImageButton
+                android:id="@+id/dhanu"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/dhanu"
+                android:clickable="true"
+                android:contentDescription="@string/dhanu"
+                android:onClick="dhanu" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/linear4">
+
+            <ImageButton
+                android:id="@+id/makara"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/makara"
+                android:clickable="true"
+                android:contentDescription="@string/makara"
+                android:onClick="makara" />
+
+            <ImageButton
+                android:id="@+id/khumbha"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/khumbha"
+                android:clickable="true"
+                android:contentDescription="@string/khumbha"
+                android:onClick="khumbha" />
+
+
+            <ImageButton
+                android:id="@+id/meena"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/meena"
+                android:clickable="true"
+                android:contentDescription="@string/meena"
+                android:onClick="meena" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

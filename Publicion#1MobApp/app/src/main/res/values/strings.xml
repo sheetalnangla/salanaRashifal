@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Salana Rashifal</string>
+    <string name="horoscope">Horoscope</string>
+    <string name="title">Rashi Gyan</string>
+    <string name="copy">Copyright &#169;  Canadore Group 6 Inc. 2020</string>
+    <string name="home">Go Home</string>
+    <string name="mesha">mesha</string>
+    <string name="vrishbha">vrishbha</string>
+    <string name="mithuna">mithuna</string>
+    <string name="karkata">karkata</string>
+    <string name="simha">simha</string>
+    <string name="kanya">kanya</string>
+    <string name="tula">tula</string>
+    <string name="vrishika">vrishika</string>
+    <string name="dhanu">dhanu</string>
+    <string name="makara">makara</string>
+    <string name="khumbha">khumbha</string>
+    <string name="meena">meena</string>
+
+    <string name="mesha_text"><![CDATA[
+        <h1>Mesha</h1>
+        <strong> March 21 to April 19</strong><br>
+        <strong>Symbol:</strong> Ram <br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Mars <br>
+        <strong>Lucky Stone:</strong> Diamond <br>
+        <p align="justify">
+            Mesha Horoscope 2020 predicts that the natives belonging to Mesha will get good results in their endeavours, given that they work hard and believe in themselves. You will welcome success in your career and professional life. However, you will be required to pay attention to your health during this year. You will find yourself lost in the ecstacy of love and your partner will love you with all his/her heart. Those who are married will enjoy a happy married life if they sweep petty issues under the carpet. Your life partner will support you endlessly and help you at each step your life.
+
+        </p>
+        <p align="justify">
+            Those who wish to travel abroad may get their wishes fulfilled during this year. Laying the foundation of your new home on a foreign land will be easy for you. You need not worry much about your financial conditions during the year 2020 as you will maintain a steady flow of income. You will have a good standard of living and as a result, enjoy the comforts of life. You should work hard in your professional field as you will get multifold results. Your success will light the flames of jealousy in the heart of your colleagues. You should learn to utilise your time efficiently. Do not let yourself get involved in the whirlpool of office politics and controversies.
+
+        </p>
+       ]]></string>
+
+    <string name="vrishbha_text"><![CDATA[
+        <h1>Vrishbha</h1>
+        <strong>April 20 to May 20<strong><br>
+        <strong>Symbol:</strong> Bull <br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Planet:</strong> Venus<br>
+        <strong>Lucky Stone:</strong> Emerald <br>
+        <br>
+        <p align="center">
+            The year 2020 may prove to be a challenging year for the natives of Vrishbha. However, you will get many opportunities to shape your future by tackling the problems and getting over the obstacles that you face. Hard-work will be your shortcut to success. Being a Vrishbhain, you want stability in your life and you will achieve it during this year if you try.
+        </p>
+        <p align="center">
+            Making proper decisions will be important for you. Do not miss opportunities, otherwise, you may end up empty handed. Keeping a check on your anger will help you to enjoy your love life. A lot of romance is on the cards for you. Share your feelings with your partner if you want them to understand you. Your social life will be good and you will gel along easily with others. You will befriend new people. Being a stubborn person may ruin your relationships and thus, must be kept in check. Personal space is necessary and should be a part of your life as well.
+        </p>
+    ]]></string>
+
+    <string name="mithuna_text"><![CDATA[
+        <h1>Mithuna</h1>
+        <strong> May 21 to June 20<strong><br>
+        <strong>Symbol:</strong> Twins <br>
+        <strong>Element:</strong> Air<br>
+        <strong>Planet:</strong> Mercury<br>
+        <strong>Lucky Stone:</strong> Aquamarine <br>
+        <p align="justify">
+                There will be an ebb and flow of happiness in your life, predicts the Mithuna Horoscope 2020. Various challenges will block your way to success. Your capability will be judged by the way you tackle them and get another step closer to your goals. Your health and career may be the biggest lows that you face this year. A mixed period awaits you in the field of education, finance, and marriage. However, you will have a rhapsodic love life.
+
+        </p>
+		<p align="justify">
+			The transit of Saturn on 24th January will affect all the spheres of your life. Jupiter will be posited in the seventh house from January to March, after which it will be in the eighth house till July. It will again be posited in the seventh house till mid-November. These back and forth changes will affect your health and married life. The position of Rahu will make you extravagant. It may also lead to health issues. On the brighter side, it may give you a chance to take off from your native land and land on a foreign one as per your wishes.
+        </p>
+    ]]></string>
+
+    <string name="karkata_text"><![CDATA[
+        <h1>Karkata</h1>
+        <strong> June 21 to July 22<strong><br>
+        <strong>Symbol:</strong> Crab <br>
+        <strong>Element:</strong> Water <br>
+        <strong>Planet:</strong> Moon <br>
+        <strong>Lucky Stone:</strong> Moonstone <br>
+        <p align="justify">
+           The year 2020 will produce mixed results for people belonging to the Zodiac Sign Karkata. Your communication skills will improve and as a result, you will befriend many people, thus, expanding your friend base. This may also help you in your career growth and development. From the starting of the year to the mid phase of September, you will possess exceptional reasoning and analytical skills due to which you will be able to make good decisions. Pending tasks will be completed and efforts made earlier in your life will be brought to fruition. You should be prepared to enjoy the ecstacy of love in your life. If you have been searching for true love, you will be able to find it. Those who intend to stay single will adhere to their resolution. A marriage in family in on the cards for you.
+        </p>
+		<p align="justify">
+		Partnership in business will yield better results than expected, especially if it is done with a trusted friend. Risks should be analysed well before making any decision related to investment. Trusting anyone blindly is never advised. Linking yourself to any financial institution will help you reap monetary benefits. You should have faith in your own abilities and must rely upon yourself. Do not let failures take a toll on you. You should give your best shot in whatever you do. This will help you in unleashing your best potential. Taking care of your health must be listed on the top of your priorities. Avoid consuming junk foods and spicy foods. If you got an addiction to smoking or drinking, try to curb it. It will take a lot of patience but you will realise that it is worth giving a try. You will develop an inclination towards performing social and religious deeds. You will spend money for the same. Your philanthropic work will garner you praises and respect from the society.
+        </p>
+    ]]></string>
+
+    <string name="simha_text"><![CDATA[
+        <h1>Simha</h1>
+        <strong> July 23 to August 22<strong><br>
+        <strong>Symbol:</strong> Lion <br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Sun <br>
+        <strong>Lucky Stone:</strong> Peridot <br>
+        <p align="justify">
+           The year brings mixed results for the zodiac sign Simha. There will be potential opportunities which can give your life a whole new direction. You will be tolerant and whatever you decide to do shall be accomplished for sure. Your business will flourish. This year in the beginning, Rahu will be your 11th house of Gemini sign and enter your eleventh house of Vrishbha sign in mid-September. In the month of January, on 24th, Saturn will transit into its own sign - Makara. On 30th March, Jupiter will also transit into Makara and retrograde into your sixth house. Till June 30, it will remain in the same position and then move to your fifth house of Dhanu sign. Again on November 20, it will transit into sixth house.
+
+        </p>
+		<p align="justify">
+			This year small trips will benefit you. A pilgrimage is also possible in the first half of the year. Social service can be on your mind. Saturn and Jupiter together are indicating towards foreign trips in the months of April, May, June, July, November and December. Your wishes will come true, making you glad. January, March, April and May will be the months for making property or taking a loan. Your interests will be diverse as you will be inclined towards art. 2020 can prove to be a milestone for you. You will excel at every front. So get ready to make the most of this year.
+        </p>
+    ]]></string>
+
+    <string name="kanya_text"><![CDATA[
+        <h1>Kanya</h1>
+        <strong> August 23 to September 22<strong><br>
+        <strong>Symbol:</strong> Virgin  <br>
+        <strong>Element:</strong> Earth <br>
+        <strong>Planet:</strong> Mercury<br>
+        <strong>Lucky Stone:</strong> Sapphire <br>
+        <p align="justify">
+            The natives of Kanya, this year, will experience changes in their life, owing to major transit of planets. On January 24, Saturn will shift to your fifth house. Jupiter on 30th March will also move into the same house. Later, around June 30th, it will retrograde into fourth house. It will remain in the same house till November 20, when it will again transit into the fifth house. Rahu, till mid September will remain in tenth house and move to ninth after that.
+        </p>
+		<p align="justify">
+			There is a strong indication for foreign tours this year. If you have been trying to get such an opportunity for work or education, there’s a high probability of you successfully moving to a foreign land. If you have a job, a desired transfer is possible. You may shift near your home if previously you were posted somewhere far. If you are into business, you will have to go for a lot of trips to reinforce your enterprise. Those working in creative fields have the support of the stars this year.
+
+        </p>
+    ]]></string>
+
+    <string name="tula_text"><![CDATA[
+        <h1>Tula</h1>
+        <strong> September 23 to October 22 <strong><br>
+        <strong>Symbol:</strong> Scales <br>
+        <strong>Element:</strong> Air<br>
+        <strong>Planet:</strong> Venus <br>
+        <strong>Lucky Stone:</strong> Opals <br>
+        <p align="justify">
+           As per Vedic astrology, the signs for the natives of Tula for the year 2020 indicate towards adventure, learning and travel. Health needs attention and travel needs planning. Keep a check on both. Saturn, in the beginning of the year, will be in the third house but transit into the fourth on January 24. Jupiter, which also would be in the third house during the beginning will move into the fourth on March 30. The astonishing element is on 30th June, Jupiter will retrograde and again come into the third house. It will return back to its previous route and enter the fourth house on November 20th. The position of Rahu will be in your ninth house till September, after which it will move into your eighth house. You need to drive with caution during this time and eat easy-to-digest food only. Arguments, should be a big no for you. Alcohol, non-vegetarian food, smoking and such things can cause a lot of damage. Staying away from them is advised to you.
+        </p>
+    ]]></string>
+
+    <string name="vrishika_text"><![CDATA[
+        <h1>Vrishika</h1>
+        <strong> October 23 to November 21 <strong><br>
+        <strong>Symbol:</strong> Scorpoin <br>
+        <strong>Element:</strong> Water <br>
+        <strong>Planet:</strong> Mars<br>
+        <strong>Lucky Stone:</strong> Topaz <br>
+        <p align="justify">
+           According to Vrishika Horoscope 2020, you will get success in accomplishing some of the incomplete work that you might have been delaying for a long time. Apart from it, some new projects or work can also be kicked off this year by you. Horoscope also indicates that you will get rid of the issues that you might have been suffering from a long time. You will embark on a new exciting journey this year. You will also get showered with satisfaction and happiness in your life. Lord Shani will enter in the third house on January 24 and Lord Brihaspati will get into the third house on March 30.
+        </p>
+		<p align="justify">
+			In September, Rahu will be in the 8th house. After that, it will be in seventh house. This year, you will get indulged in various trips to lovely places. It means you are going to have a lot of fun. And the best thing is that these trips will be quite good and beneficial for you. Apart from it, you may go with your family and friends to your favourite tourist spots.
+
+        </p>
+    ]]></string>
+
+    <string name="dhanu_text"><![CDATA[
+        <h1>Dhanu</h1>
+        <strong> November 22 to December 21 <strong><br>
+        <strong>Symbol:</strong> Archer <br>
+        <strong>Element:</strong> Fire <br>
+        <strong>Planet:</strong> Jupier <br>
+        <strong>Lucky Stone:</strong> Turquoise <br>
+        <p align="justify">
+           According to horoscope 2020, this year is going to be great for you. You will get involved more in good and happy personal relationships. This year, Lord Shani will be posited in the second house and on the other hand, Jupiter will enter in the second house on March 30 and after retrograding on 14 May, will come back to Sagittarius Sign by June 30. It will remain here by November 20 and then return to Capricorn Sign. Rahu will transit in the 7th house of your kundali till mid-year and then will come back to the 6th house. This year is not good for traveling and therefore it would be right to avoid planning any big trip.
+        </p>
+    ]]></string>
+
+    <string name="makara_text"><![CDATA[
+        <h1>Makara</h1>
+        <strong> December 22 to January 19 <strong><br>
+        <strong>Symbol:</strong> Goat  <br>
+        <strong>Element:</strong> Earth<br>
+        <strong>Planet:</strong> Saturn <br>
+        <strong>Lucky Stone:</strong> Garnet  <br>
+        <p align="justify">
+            Makara Horoscope 2020 says that people belonging to zodiac sign Makara have to take many important and tough decisions this year. And your family members and friends might not agree to those decisions though. But you might have to circumvent their feelings since these decisions will be quite important for yourself. You will find yourself dedicated to doing good works to help others and this thing will make you different from others. But apart from it, you will not find yourself satisfied from the core of the heart. You might keep contemplating and feel uneasy. It is being suggested that you must not get hyper or aggressive while taking any decision. Make sure you are making a decision after understanding everything in a great manner. Whether it is your personal or professional life, you need to do everything, hereby putting the best efforts.
+        </p>
+    ]]></string>
+
+    <string name="khumbha_text"><![CDATA[
+        <h1>Khumbha</h1>
+        <strong> January 20 to February 18 <strong><br>
+        <strong>Symbol:</strong> Water Pot  <br>
+        <strong>Element:</strong> Air<br>
+        <strong>Planet:</strong> Saturn <br>
+        <strong>Lucky Stone:</strong> Amethyst <br>
+        <p align="justify">
+            According to Khumbha Horoscope 2020, this year will bring mixed results as lots of challenges and ability to fight those challenges is predicted for Khumbhaians. Khumbha are ruled by the Shani. And Shani will enter in your twelfth house in Makara sign on 24th January 2020 and remain in this sign throughout the year. On March 30, Guru will enter your twelfth house in Makara and retrograde (Vakri) on May 14 and again on June 30, will return to your eleventh house in Dhanu in the same position. It will retrograde on September 13 and move into your 12th house on 20th November. Rahu will remain in your fifth house till mid-September and after that, it will transit in the fourth house. The transit of Shani to the twelfth house signifies several travels in the year 2020, which you may or may not prefer, however, most of the travel will be beneficial for you. The possibility of foreign travel is very strong for Aquarians in 2020.
+        </p>
+    ]]></string>
+
+    <string name="meena_text"><![CDATA[
+        <h1>Meena</h1>
+        <strong> February 19 to March 20 <strong><br>
+        <strong>Symbol:</strong> Fish <br>
+        <strong>Element:</strong> Water <br>
+        <strong>Planet:</strong> Jupiter <br>
+        <strong>Lucky Stone:</strong> Bloodstone <br>
+        <p align="justify">
+           For the Meena natives, Horoscope 2020 predictions are going to make them drown in the pool of happiness. The ruling planet of your Zodiac Sign, Jupiter, will be in the 10th house by March 30 and then head to the 11th house. Guru will come back to the 10th house by 30 June. Lord Shani will be in your zodiac sign’s 11th house in the starting of the year around January 24 and lead towards lots of benefits. Lord Rahu will in the fourth house in mid of September and then enter the third house. You will find incredible energy within yourself to handle the situation and bring peace to your life. All you need to do is give your best in order to churn out the best results.
+        </p>
+
+    ]]></string>
+
+
+</resources>
